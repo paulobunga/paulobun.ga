@@ -1,0 +1,23 @@
+{
+  "name": "paulobun.ga",
+  "version": "1.0.0",
+  "description": "Personal Design Portfolio",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulobunga/paulobun.ga.git"
+  },
+  "author": "Paul Obunga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulobunga/paulobun.ga/issues"
+  },
+  "homepage": "https://github.com/paulobunga/paulobun.ga#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
